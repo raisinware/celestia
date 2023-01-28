@@ -1,3 +1,0 @@
-[submodule "efi/amd64"]
-	path = efi/amd64
-	url = https://github.com/yoppeh/efi
