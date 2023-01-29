@@ -7,12 +7,12 @@
 #ifndef __EFI_ST_H
 #define __EFI_ST_H
 
-#include <efi.h>
-#include <protocol/efi-stip.h>
-#include <protocol/efi-stop.h>
-#include <efi-rs.h>
-#include <efi-bs.h>
-#include <efi-ct.h>
+#include "efi.h"
+#include "protocol/efi-stip.h"
+#include "protocol/efi-stop.h"
+#include "efi-rs.h"
+#include "efi-bs.h"
+#include "efi-ct.h"
 
 
 typedef struct EFI_SYSTEM_TABLE {

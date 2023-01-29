@@ -7,7 +7,7 @@
 #ifndef __EFI_PBCP_H
 #define __EFI_PBCP_H
 
-#include <efi.h>
+#include "../efi.h"
 
 
 // first definitions for PXE_BASE_CODE_PROTOCOL constants
